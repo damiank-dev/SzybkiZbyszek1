@@ -30,6 +30,6 @@
 
 ---
 
-### 📫 Connect with me
+### 📫 Contact
 
-* **GitHub:** [@SzybkiZbyszek1](https://github.com/SzybkiZbyszek1)
+* **Email:** szybki.zbyszek@atomicmail.io
